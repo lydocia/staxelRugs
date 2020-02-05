@@ -1,0 +1,16 @@
+{
+  "__inherits": "staxel/tileObject/moveable.config",
+  "categories": [
+    "furniture",
+    "purple"
+  ],
+  "code": "xable.rugs.print.hamad",
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 100,
+    "value": 250
+  },
+  "searchable": true,
+  "voxels": "mods/Xable's Rugs/print/hamad.qb"
+}
